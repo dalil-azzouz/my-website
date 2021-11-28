@@ -23,3 +23,134 @@ h3{
 a{
   text-decoration: none;
 }
+
+.banner{
+
+ background-color: lightblue;
+
+ background-size: cover;    
+background-position: center;
+.container h1
+  color: white;
+  font-size: 35px;
+
+}
+.banner h2 {
+  font-size: 30px;
+  font-weight: lighter;
+opacity: 0.8;
+}
+
+.btn-blue{
+background-color: blue;
+padding: 15px 25px;
+border-radius: 3px;
+color: white;
+font-weight: bold;
+ont-family: 'Open Sans', sans-serif;
+}
+<h2> </h2> {
+	
+}
+
+.cards{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+	padding: 30px;
+  padding-right: 40px;
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
+
+}
+.card img {
+  width: 150px;
+  padding-left: 10px;
+}
+.card h3 {
+  flex-grow: 10px;
+  padding-right: 20px;
+}
+width : 700px;
+margin : 0 auto;
+  }
+
+  @media (max-width: 960px) {
+  /* For a screen < 960px, this CSS will be read */
+  .container {
+    width: 700px;
+  }
+}
+@media (max-width: 720px) {
+  /* For a screen < 720px, this CSS will be read */
+  .container {
+    width: 500px;
+  }
+}
+@media (max-width: 540px) {
+  /* For a screen < 540px, this CSS will be read */
+  .container {
+    width: 300px;
+  }
+}
+
+.avatar {
+	width: 180px;
+	height: 200px;
+	border-radius: 60%;
+}
+.container {
+ width : 700px;
+margin : 0 auto;
+  }
+
+  @media (max-width: 960px) {
+  /* For a screen < 960px, this CSS will be read */
+  .container {
+    width: 700px;
+  }
+}
+@media (max-width: 720px) {
+  /* For a screen < 720px, this CSS will be read */
+  .container {
+    width: 500px;
+  }
+}
+@media (max-width: 540px) {
+  /* For a screen < 540px, this CSS will be read */
+  .container {
+    width: 300px;
+  }
+}
+.btn-blue{
+background-color: blue;
+padding: 15px 25px;
+border-radius: 3px;
+color: white;
+font-weight: bold;
+ont-family: 'Open Sans', sans-serif;
+}
+<h2> </h2> {
+	
+}
+.banner{
+
+ background-color: lightblue;
+
+ background-size: cover;    
+background-position: center;
+.container h1
+  color: white;
+  font-size: 35px;
+
+}
+.banner h2 {
+  font-size: 30px;
+  font-weight: lighter;
+opacity: 0.8;
+}
+
